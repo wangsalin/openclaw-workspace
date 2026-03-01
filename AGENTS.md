@@ -36,6 +36,16 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - This is your curated memory — the distilled essence, not raw logs
 - Over time, review your daily files and update MEMORY.md with what's worth keeping
 
+### 📱 平台隔离记忆
+
+根据所在渠道加载对应的记忆文件：
+
+- **飞书**: `memory/feishu.md` + `memory/common.md`
+- **企业微信**: `memory/wecom.md` + `memory/common.md`
+- **其他平台**: `memory/common.md`
+
+读取顺序：先读平台专用记忆，再读通用记忆。
+
 ### 📝 Write It Down - No "Mental Notes"!
 
 - **Memory is limited** — if you want to remember something, WRITE IT TO A FILE
