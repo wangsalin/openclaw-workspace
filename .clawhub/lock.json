@@ -36,6 +36,10 @@
     "tencentcloud-lighthouse-skill": {
       "version": "1.0.0",
       "installedAt": 1772179839761
+    },
+    "python-executor": {
+      "version": "0.1.5",
+      "installedAt": 1772359519982
     }
   }
 }
