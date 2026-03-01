@@ -40,6 +40,10 @@
     "python-executor": {
       "version": "0.1.5",
       "installedAt": 1772359519982
+    },
+    "product-manager-toolkit": {
+      "version": "1.0.0",
+      "installedAt": 1772361483548
     }
   }
 }
